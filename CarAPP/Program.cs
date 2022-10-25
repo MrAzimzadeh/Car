@@ -60,7 +60,7 @@ do
             break;
 
         default:
-            System.Console.WriteLine(" 1 and 4 ");
+            System.Console.WriteLine(" 1 and 4 ; ");
             break;
     }
 } while (userInput != 4);
