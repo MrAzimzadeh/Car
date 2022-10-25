@@ -1,0 +1,15 @@
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\bin\Debug\net6.0\CarAPP.exe
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\bin\Debug\net6.0\CarAPP.deps.json
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\bin\Debug\net6.0\CarAPP.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\bin\Debug\net6.0\CarAPP.dll
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\bin\Debug\net6.0\CarAPP.pdb
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\CarAPP.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\CarAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\CarAPP.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\CarAPP.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\CarAPP.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\CarAPP.dll
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\refint\CarAPP.dll
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\CarAPP.pdb
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\CarAPP.genruntimeconfig.cache
+C:\Users\mehem\OneDrive\Desktop\CarNew\CarAPP\obj\Debug\net6.0\ref\CarAPP.dll
